@@ -1,0 +1,16 @@
+body {
+    background-color: aquamarine;
+}
+.js-clock {
+    font-size: 6rem;
+}
+
+.js-form-name {
+    display: none;
+}
+.js-greeting {
+    display: none;
+}
+.showing_name {
+    display: block;
+}
