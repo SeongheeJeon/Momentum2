@@ -1,12 +1,10 @@
-const clock = document.querySelector(".js-clock");
+const clock = document.querySelector(".js-clock p");
 
 function update_clock(){
     const now = new Date();
     const hour = now.getHours();
     const minute = now.getMinutes();
     const second = now.getSeconds();
-
-    console.log(hour, minute, second);
 
     clock.innerHTML = `${hour<10 ? `0${hour}` : hour}:${
         minute<10 ? `0${minute}` : minute}:${
