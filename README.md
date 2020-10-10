@@ -13,8 +13,8 @@
 <img src="images/error_scroll.png" width="400px" height="300px"></img> -> <img src="images/fixed_scroll.png"  width="400px" height="300px"></img>
 - 할일 목록의 id 중복가능성 제거.  
   -> 기존 : '할일 목록 갯수 +1'로 id를 부여  
-  -> 수정후 : 로컬 스토리지에 카운터 변수 cnt 추가. +1 해가며 순서대로 id 부여.
- 
+  -> 수정후 : 로컬 스토리지에 카운터 변수 cnt 추가. +1 해가며 순서대로 id 부여.  
+- 체크박스 디자인을 위해 label 사용.  
 
 ## 알게된 것
 - CSS에서 속성의 순서에 주의해야한다.  
