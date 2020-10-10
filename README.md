@@ -1,7 +1,7 @@
 
 > ### 노마드 코더의 '바닐라 JS로 크롬 앱 만들기' 수업을 들으며 만들었던 Momentum을 
-> ### 백지코딩하며 다시 만들어보고, 오류는 수정하고, 다른 방식으로 구현해보며 공부했습니다.  
-> ### ([Momentum_repository로_이동](https://github.com/SeongheeJeon/Momentum.git))  <br><br>
+> ### 백지코딩하며 다시 만들어보고, 개선하였습니다.
+> ### 수업을 들으며 알게된 내용은 ([Momentum의_README](https://github.com/SeongheeJeon/Momentum/blob/master/README.md))에 있습니다.  <br><br>
 
 <img src="images/example.png" width="70%"></img>
 
