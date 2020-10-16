@@ -11,10 +11,13 @@
 - 배경 이미지 fixed 처리. (스크롤시에도 고정되도록)   
 
 <img src="images/error_scroll.png" width="400px" height="300px"></img> -> <img src="images/fixed_scroll.png"  width="400px" height="300px"></img>
-- 할일 목록의 id 중복가능성 제거.  
+- **할일 목록의 id 중복가능성 제거.**  
   -> 기존 : '할일 목록 갯수 +1'로 id를 부여  
   -> 수정후 : 로컬 스토리지에 카운터 변수 cnt 추가. +1 해가며 순서대로 id 부여.  
-- 체크박스 디자인을 위해 label 사용.  
+- **체크박스 디자인을 위해 label 사용.**  
+- **JavaScript 함수 saveTodo()와 paintTodo()의 기능을 명확히 구분함.**  
+  -> saveTodo() : 로컬스토리지에 값을 저장하기 위한 함수  
+  -> paintTodo() : html문서에 요소를 추가하기위한 함수  
 
 ## 알게된 것
 - CSS에서 속성의 순서에 주의해야한다.  
